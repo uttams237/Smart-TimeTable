@@ -17,7 +17,7 @@
 
 
 ![About clicked subject](gs.png)
-##### When you a particular subject
+##### When you touch a particular subject
 
 <hr>
 <br>
